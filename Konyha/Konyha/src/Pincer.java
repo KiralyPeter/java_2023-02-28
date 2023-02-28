@@ -7,7 +7,7 @@ public class Pincer implements Konyha{
 
     @Override
     public void deliverFood() {
-        System.out.println("Pincár viszi az ételt");
+        System.out.println("Pincér viszi az ételt");
     }
 
 
