@@ -5,4 +5,12 @@ public class Garden {
     public Garden( Animal animal ) {
         this.animal = animal;
     }
+
+    public void playAnimal() {
+        animal.play();
+    }
+
+    public void speakAnimal() {
+        animal.speak();
+    }
 }
